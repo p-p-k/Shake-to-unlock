@@ -1,6 +1,6 @@
 # Shake to unlock
 
-This sketch lets you simulate the unlocking of all devices connected to the same server by shaking one of them. The change in lock state is represented by a change in background color. 
+This sketch lets you shake one device to simulate the locking and unlocking of other devices connected to the same server. The change in lock state is represented by a change in background color. 
 
 ## Based on
 
